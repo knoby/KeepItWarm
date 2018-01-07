@@ -11,10 +11,10 @@
 
 
 
-#include "DigitalIO.h"
+#include "DigitalIO.hpp"
 
 #include "Controllino.h"
-#include "../Config.h"
+#include "../Config.hpp"
 
 
 extern bool xMVBuffer;

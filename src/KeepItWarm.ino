@@ -5,7 +5,7 @@
  * @Project: KeepItWarm
  * @Filename: TempSensor.cpp
  * @Last modified by:   brinkmannm
- * @Last modified time: 2018-01-07T11:16:46+01:00
+ * @Last modified time: 2018-01-07T11:23:08+01:00
  */
 
 
@@ -14,14 +14,14 @@
 #include <Controllino.h>
 
  //Configuration
-#include "Config.h"
+#include "Config.hpp"
 
 //Programm Includes
-#include "10_I2C/I2CDisplay.h"
-#include "20_OneWire/TempSensor.h"
-#include "30_SignalProcessing/SignalProcessing.h"
-#include "40_DigitalIO/DigitalIO.h"
-#include "50_StateMachine/Statemachine.h"
+#include "10_I2C/I2CDisplay.hpp"
+#include "20_OneWire/TempSensor.hpp"
+#include "30_SignalProcessing/SignalProcessing.hpp"
+#include "40_DigitalIO/DigitalIO.hpp"
+#include "50_StateMachine/Statemachine.hpp"
 #include "90_HelperFunc/Logger.cpp"
 
 

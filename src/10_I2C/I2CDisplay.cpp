@@ -4,17 +4,17 @@
  * @Email:  maximilian.brinkmann@gmx.net
  * @Project: KeepItWarm
  * @Filename: I2CDisplay.cpp
- * @Last modified by:   KnobY
- * @Last modified time: 2018-01-04T14:06:15+01:00
+ * @Last modified by:   brinkmannm
+ * @Last modified time: 2018-01-07T11:21:56+01:00
  * @License: MIT
  */
 
 //Include own heaer
-#include "I2CDisplay.h"
+#include "I2CDisplay.hpp"
 
 //External vars to display Status
 #include "Controllino.h"
-#include "../Config.h"
+#include "../Config.hpp"
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 

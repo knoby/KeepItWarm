@@ -5,12 +5,12 @@
  * @Project: KeepItWarm
  * @Filename: Signalprocessing.cpp
  * @Last modified by:   brinkmannm
- * @Last modified time: 2017-Sep-24 15:29:01
+ * @Last modified time: 2018-01-07T11:21:03+01:00
  * @License: MIT
  */
 
  #include "Controllino.h"
-#include "SignalProcessing.h"
+#include "SignalProcessing.hpp"
 
 ///// Compare with Hysteresis and 16 bit
 

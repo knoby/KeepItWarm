@@ -5,15 +5,14 @@
  * @Project: KeepItWarm
  * @Filename: dataslave.c
  * @Last modified by:   brinkmannm
- * @Last modified time: 2017-Sep-30 19:47:34
+ * @Last modified time: 2018-01-07T11:22:13+01:00
  * @License: MIT
  */
 
-#include "I2CSlave.h"
-#include "../Config.h"
+#include "I2CSlave.hpp"
+#include "../Config.hpp"
 #include "../90_HelperFunc/Logger.cpp"
 #include <Wire.h>
-
 
 //Prototypes
 void reciveEvent(int numBytes);

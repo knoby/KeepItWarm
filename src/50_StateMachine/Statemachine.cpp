@@ -11,10 +11,10 @@
 
 
 
-#include "Statemachine.h"
+#include "Statemachine.hpp"
 #include "Controllino.h"
-#include "../Config.h"
-#include "../30_SignalProcessing/SignalProcessing.h"
+#include "../Config.hpp"
+#include "../30_SignalProcessing/SignalProcessing.hpp"
 #include "../90_HelperFunc/Logger.cpp"
 
 //Digital Outputs

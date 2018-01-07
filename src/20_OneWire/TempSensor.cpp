@@ -10,10 +10,10 @@
  */
 
 
-#include "../Config.h"
+#include "../Config.hpp"
 #include <OneWire.h>
 #include <DallasTemperature.h>
-#include "TempSensor.h"
+#include "TempSensor.hpp"
 #include "../90_HelperFunc/Logger.cpp"
 
 
