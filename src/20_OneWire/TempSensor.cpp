@@ -5,12 +5,12 @@
  * @Project: KeepItWarm
  * @Filename: TempSensors.cpp
  * @Last modified by:   brinkmannm
- * @Last modified time: 2017-Oct-01 17:26:54
+ * @Last modified time: 2018-01-07T11:17:32+01:00
  * @License: MIT
  */
 
 
-#include "../../Config.h"
+#include "../Config.h"
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include "TempSensor.h"

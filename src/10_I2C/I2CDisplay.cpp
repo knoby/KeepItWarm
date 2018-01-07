@@ -14,7 +14,7 @@
 
 //External vars to display Status
 #include "Controllino.h"
-#include "../../Config.h"
+#include "../Config.h"
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 

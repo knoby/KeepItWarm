@@ -10,7 +10,7 @@
  */
 
 #include "I2CSlave.h"
-#include "../../Config.h"
+#include "../Config.h"
 #include "../90_HelperFunc/Logger.cpp"
 #include <Wire.h>
 

@@ -5,7 +5,7 @@
  * @Project: KeepItWarm
  * @Filename: Statemachine.cpp
  * @Last modified by:   brinkmannm
- * @Last modified time: 2018-01-07T10:38:23+01:00
+ * @Last modified time: 2018-01-07T11:18:22+01:00
  * @License: MIT
  */
 
@@ -13,7 +13,7 @@
 
 #include "Statemachine.h"
 #include "Controllino.h"
-#include "../../Config.h"
+#include "../Config.h"
 #include "../30_SignalProcessing/SignalProcessing.h"
 #include "../90_HelperFunc/Logger.cpp"
 

@@ -5,7 +5,7 @@
  * @Project: KeepItWarm
  * @Filename: DigitalIO.cpp
  * @Last modified by:   brinkmannm
- * @Last modified time: 2017-Nov-12 16:12:04
+ * @Last modified time: 2018-01-07T11:17:40+01:00
  * @License: MIT
  */
 
@@ -14,7 +14,7 @@
 #include "DigitalIO.h"
 
 #include "Controllino.h"
-#include "../../Config.h"
+#include "../Config.h"
 
 
 extern bool xMVBuffer;
